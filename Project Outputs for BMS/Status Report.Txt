@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BMS.PrjPcb]
+   Generated File[BMSPCB.GTO]
+   Generated File[BMSPCB.GTP]
+   Generated File[BMSPCB.GTS]
+   Generated File[BMSPCB.GTL]
+   Generated File[BMSPCB.GBL]
+   Generated File[BMSPCB.GBS]
+   Generated File[BMSPCB.GBP]
+   Generated File[BMSPCB.GBO]
+   Generated File[BMSPCB.GM1]
+   Generated File[BMSPCB.GM2]
+   Generated File[BMSPCB.GM3]
+   Generated File[BMSPCB.GM5]
+   Generated File[BMSPCB.GM10]
+   Generated File[BMSPCB.GM12]
+   Generated File[BMSPCB.GM13]
+   Generated File[BMSPCB.GM15]
+   Generated File[BMSPCB.GM16]
+   Generated File[BMSPCB.GM20]
+   Generated File[BMSPCB.GM21]
+   Generated File[BMSPCB.GM23]
+   Generated File[BMSPCB.GM24]
+   Generated File[BMSPCB.GKO]
+   Generated File[BMSPCB.GPT]
+   Generated File[BMSPCB.GPB]
+   Generated File[BMSPCB.RUL]
+   Generated File[BMSPCB.EXTREP]
+   Generated File[BMSPCB.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 3:27:55 PM On 5/5/2022

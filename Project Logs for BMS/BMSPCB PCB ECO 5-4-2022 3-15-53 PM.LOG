@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=U1 Old Footprint=RPi Pad New Footprint=RPi Pad
+Change Physical Footprint: Designator=U2 Old Footprint=STEPPER DRIVER Pad New Footprint=STEPPER DRIVER Pad
+Change Physical Footprint: Designator=U3 Old Footprint=STEPPER DRIVER Pad New Footprint=STEPPER DRIVER Pad
+Change Physical Footprint: Designator=U4 Old Footprint=COMPASS PAD New Footprint=COMPASS PAD
+Change Physical Footprint: Designator=U5 Old Footprint=LEVEL SHIFTER PAD New Footprint=LEVEL SHIFTER PAD

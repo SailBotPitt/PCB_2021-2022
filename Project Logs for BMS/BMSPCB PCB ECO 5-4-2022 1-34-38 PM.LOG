@@ -1,0 +1,48 @@
+Added Component: Designator=J3(Rotary Encoder - Mast)
+Added Component: Designator=U4(COMPASS PAD)
+Added Component: Designator=U5(LEVEL SHIFTER PAD)
+Added Pin To Net: NetName=3.3V Pin=U4-6
+Added Pin To Net: NetName=3.3V Pin=U4-6
+Added Pin To Net: NetName=3.3V Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=J3-0
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Net: Name=NetJ3_3
+Added Net: Name=NetLVR1_1
+Added Net: Name=NetLVR1_2
+Added Net: Name=NetLVR2_2
+Added Pin To Net: NetName=NetU1_3 Pin=U4-1
+Added Pin To Net: NetName=NetU1_3 Pin=U4-1
+Added Pin To Net: NetName=NetU1_3 Pin=U5-0
+Added Pin To Net: NetName=NetU1_3 Pin=U5-0
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_5 Pin=U4-0
+Added Pin To Net: NetName=NetU1_5 Pin=U4-0
+Added Pin To Net: NetName=NetU1_5 Pin=U5-1
+Added Pin To Net: NetName=NetU1_5 Pin=U5-1
+Added Net: Name=NetU1_5
+Added Net: Name=NetU1_7
+Added Net: Name=NetU1_11
+Added Net: Name=NetU1_13
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Net: Name=NetU5_6
+Added Pin To Net: NetName=NetU5_7 Pin=U5-7
+Added Pin To Net: NetName=NetU5_7 Pin=U5-7
+Added Net: Name=NetU5_7
+Added Member To Class: ClassName=BMS-Sch Member=Component J3 Rotary Encoder - Mast
+Added Member To Class: ClassName=BMS-Sch Member=Component U4 LSM303DLHC
+Added Member To Class: ClassName=BMS-Sch Member=Component U5 Level Shifter

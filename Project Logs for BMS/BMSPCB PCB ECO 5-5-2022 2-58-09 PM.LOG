@@ -1,0 +1,23 @@
+Change Physical Footprint: Designator=COMP1 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P599X175-8N
+Change Physical Footprint: Designator=D1 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D2 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D3 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D4 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=J1 Old Footprint=FP-M20-9990246-MFG New Footprint=FP-M20-9990246-MFG
+Change Physical Footprint: Designator=J2 Old Footprint=FP-M20-9990246-MFG New Footprint=FP-M20-9990246-MFG
+Change Physical Footprint: Designator=J3 Old Footprint=Rotary Encoder - Mast New Footprint=Rotary Encoder - Mast
+Change Physical Footprint: Designator=R1 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R3 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R5 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R6 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R7 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R9 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R10 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R11 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=U4 Old Footprint=COMPASS PAD New Footprint=COMPASS PAD
+Change Physical Footprint: Designator=U5 Old Footprint=LEVEL SHIFTER PAD New Footprint=LEVEL SHIFTER PAD
+Change Physical Footprint: Designator=U6 Old Footprint=ROTARY ENCODER - Hull New Footprint=ROTARY ENCODER - Hull
+Change Physical Footprint: Designator=VR1 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0
+Change Physical Footprint: Designator=VR2 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0
+Change Physical Footprint: Designator=VR3 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0

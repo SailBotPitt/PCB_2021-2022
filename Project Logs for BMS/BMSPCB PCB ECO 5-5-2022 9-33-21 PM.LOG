@@ -1,0 +1,50 @@
+Change Physical Footprint: Designator=COMP1 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P599X175-8N
+Change Physical Footprint: Designator=COMP2 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P599X175-8N
+Change Physical Footprint: Designator=COMP3 Old Footprint=SOIC127P599X175-8N New Footprint=SOIC127P599X175-8N
+Change Physical Footprint: Designator=D1 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D2 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D3 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D4 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D5 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D6 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D7 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D8 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D9 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D10 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D11 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=D12 Old Footprint=DIOAD1060W80L520D270 New Footprint=DIOAD1060W80L520D270
+Change Physical Footprint: Designator=J3 Old Footprint=Rotary Encoder - Mast New Footprint=Rotary Encoder - Mast
+Change Physical Footprint: Designator=LED1 Old Footprint=LED_151054RS03000 New Footprint=LED_151054RS03000
+Change Physical Footprint: Designator=LED2 Old Footprint=LED_151054RS03000 New Footprint=LED_151054RS03000
+Change Physical Footprint: Designator=LED3 Old Footprint=LED_151054RS03000 New Footprint=LED_151054RS03000
+Change Physical Footprint: Designator=LVR1 Old Footprint=TO245P780X300X1364-3 New Footprint=TO245P780X300X1364-3
+Change Physical Footprint: Designator=LVR2 Old Footprint=TO245P780X300X1364-3 New Footprint=TO245P780X300X1364-3
+Change Physical Footprint: Designator=R1 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R3 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R4 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R5 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R6 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R7 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R8 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R9 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R10 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R11 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R12 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R13 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R14 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R15 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=T1 Old Footprint=TO245P780X300X1364-3 New Footprint=TO245P780X300X1364-3
+Change Physical Footprint: Designator=T2 Old Footprint=TO245P780X300X1364-3 New Footprint=TO245P780X300X1364-3
+Change Physical Footprint: Designator=T3 Old Footprint=TO245P780X300X1364-3 New Footprint=TO245P780X300X1364-3
+Change Physical Footprint: Designator=U1 Old Footprint=RPi Pad New Footprint=RPi Pad
+Change Physical Footprint: Designator=U2 Old Footprint=STEPPER DRIVER Pad New Footprint=STEPPER DRIVER Pad
+Change Physical Footprint: Designator=U3 Old Footprint=STEPPER DRIVER Pad New Footprint=STEPPER DRIVER Pad
+Change Physical Footprint: Designator=U4 Old Footprint=COMPASS PAD New Footprint=COMPASS PAD
+Change Physical Footprint: Designator=U5 Old Footprint=LEVEL SHIFTER PAD New Footprint=LEVEL SHIFTER PAD
+Change Physical Footprint: Designator=U6 Old Footprint=ROTARY ENCODER - Hull New Footprint=ROTARY ENCODER - Hull
+Change Physical Footprint: Designator=U7 Old Footprint=GPS Pad New Footprint=GPS Pad
+Change Physical Footprint: Designator=U8 Old Footprint=LoRa PAD New Footprint=LoRa PAD
+Change Physical Footprint: Designator=VR1 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0
+Change Physical Footprint: Designator=VR2 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0
+Change Physical Footprint: Designator=VR3 Old Footprint=Bourns_3296W-1-502LF_0 New Footprint=Bourns_3296W-1-502LF_0

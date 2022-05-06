@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=DP1 Old Footprint=Power Ground Input New Footprint=Deans Connector
+Change Component Footprint: Designator=DP2 Old Footprint=Power Ground Input New Footprint=Deans Connector
+Change Component Footprint: Designator=DP3 Old Footprint=Power Ground Input New Footprint=Deans Connector
+Change Component Footprint: Designator=DP4 Old Footprint=Power Ground Input New Footprint=Deans Connector
+Change Component Footprint: Designator=DP5 Old Footprint=Power Ground Input New Footprint=Deans Connector
+Added Component: Designator=DP6(Deans Connector)
+Added Component: Designator=DP7(Deans Connector)
+Added Component: Designator=DP8(Deans Connector)
+Added Component: Designator=DP9(Deans Connector)
+Added Component: Designator=DP10(Deans Connector)
+Added Pin To Net: NetName=NetDP6_0 Pin=DP6-0
+Added Pin To Net: NetName=NetCOMP4_6 Pin=DP6-1
+Added Pin To Net: NetName=NetCOMP4_6 Pin=DP7-0
+Added Pin To Net: NetName=NetCOMP5_6 Pin=DP7-1
+Added Pin To Net: NetName=NetCOMP5_6 Pin=DP8-0
+Added Pin To Net: NetName=GND Pin=DP8-1
+Added Pin To Net: NetName=NetDP6_0 Pin=DP9-0
+Added Pin To Net: NetName=GND Pin=DP9-1
+Added Pin To Net: NetName=NetDP10_0 Pin=DP10-0
+Added Pin To Net: NetName=GND Pin=DP10-1
+Added Member To Class: ClassName=BMS-Sch Member=Component DP6 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP7 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP8 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP9 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP10 Deans Plug
+Added Room: Name=BMS-Sch

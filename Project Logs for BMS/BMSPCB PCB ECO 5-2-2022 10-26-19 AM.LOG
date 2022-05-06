@@ -1,0 +1,3 @@
+Change Class Name : Old Net Name=BMS-Shem-v1 New Net Name=BMS-Sch
+Change Room Name: Old Name=BMS-Shem-v1 New Name=BMS-Sch
+Change Room Scope: Old Scope=InComponentClass('BMS-Shem-v1') New Scope=InComponentClass('BMS-Sch')

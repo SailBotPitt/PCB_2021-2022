@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetCOMP3_6 Pin=J1-2
+Removed Pin From Net: NetName=NetDP1_0 Pin=J2-1
+Removed Pin From Net: NetName=NetCOMP3_6 Pin=J2-2
+Removed Member From Class: ClassName=BMS-Sch Member=J1
+Removed Member From Class: ClassName=BMS-Sch Member=J2
+Added Component: Designator=DP4(Power Ground Input)
+Added Component: Designator=DP5(Power Ground Input)
+Added Pin To Net: NetName=NetCOMP3_6 Pin=DP4-1
+Added Pin To Net: NetName=NetDP1_0 Pin=DP5-0
+Added Pin To Net: NetName=NetCOMP3_6 Pin=DP5-1
+Added Pin To Net: NetName=NetDP4_0 Pin=DP4-0
+Added Pin To Net: NetName=NetDP4_0 Pin=LVR1-3
+Added Net: Name=NetDP4_0
+Added Member To Class: ClassName=BMS-Sch Member=Component DP4 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP5 Deans Plug
+Added Room: Name=BMS-Sch

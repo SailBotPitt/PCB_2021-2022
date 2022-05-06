@@ -1,0 +1,17 @@
+Added Component: Designator=U5(LEVEL SHIFTER PAD)
+Added Pin To Net: NetName=NetU1_3 Pin=U5-0
+Added Pin To Net: NetName=NetU1_3 Pin=U5-0
+Added Pin To Net: NetName=NetU1_5 Pin=U5-1
+Added Pin To Net: NetName=NetU1_5 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=3.3V Pin=U5-3
+Added Pin To Net: NetName=3.3V Pin=U5-3
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Pin To Net: NetName=NetU5_7 Pin=U5-7
+Added Pin To Net: NetName=NetU5_7 Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Member To Class: ClassName=BMS-Sch Member=Component U5 Level Shifter
+Added Room: Name=BMS-Sch

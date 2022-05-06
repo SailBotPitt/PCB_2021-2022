@@ -1,0 +1,4 @@
+Added Component: Designator=DP11(Deans Connector)
+Added Pin To Net: NetName=NetDP6_0 Pin=DP11-0
+Added Pin To Net: NetName=NetDP1_0 Pin=DP11-1
+Added Member To Class: ClassName=BMS-Sch Member=Component DP11 Deans Plug

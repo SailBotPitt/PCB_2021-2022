@@ -1,0 +1,17 @@
+Added Component: Designator=U1(RPi Pad)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raspberry Pi Foundation (NF)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RASPBERRYPI4 4GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RASPBERRYPI4%204GB/Raspberry%20Pi/view-part/3832294/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Member To Class: ClassName=BMS-Sch Member=Component U1 RASPBERRYPI4_4GB
+Added Member To Class: ClassName=BMS-Sch Member=Component U6 Rotary Encoder
+Added Room: Name=BMS-Sch
