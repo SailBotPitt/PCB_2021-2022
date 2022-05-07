@@ -1,0 +1,11 @@
+Added Component: Designator=DP8(Deans Connector)
+Added Pin To Net: NetName=NetCOMP4_6 Pin=DP6-1
+Added Pin To Net: NetName=NetCOMP5_6 Pin=DP7-1
+Added Pin To Net: NetName=NetCOMP5_6 Pin=DP8-0
+Added Pin To Net: NetName=GND Pin=DP8-1
+Added Member To Class: ClassName=BMS-Sch Member=Component COMP1 TL431
+Added Member To Class: ClassName=BMS-Sch Member=Component DP6 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP7 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP8 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component LED1 LED
+Added Room: Name=BMS-Sch

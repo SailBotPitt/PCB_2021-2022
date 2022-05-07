@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=DP3-1
+Added Pin To Net: NetName=GND Pin=DP8-1
+Added Member To Class: ClassName=BMS-Sch Member=Component DP8 Deans Plug
+Added Room: Name=BMS-Sch
