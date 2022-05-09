@@ -1,0 +1,8 @@
+Added Component: Designator=U*(Boost Pad)
+Added Pin To Net: NetName=GND Pin=U*-0
+Added Pin To Net: NetName=12V Pin=U*-1
+Added Pin To Net: NetName=GND Pin=U*-3
+Added Pin To Net: NetName=24V Pin=U*-2
+Added Net: Name=24V
+Added Member To Class: ClassName=BMS-Sch Member=Component U* Boost Converter
+Added Room: Name=BMS-Sch

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=CELL1 NewDesignator=DP1
+Change Component Designator: OldDesignator=CELL1_2 NewDesignator=DP6
+Change Component Designator: OldDesignator=CELL2 NewDesignator=DP2
+Change Component Designator: OldDesignator=CELL2_2 NewDesignator=DP7
+Change Component Designator: OldDesignator=CELL3 NewDesignator=DP3
+Change Component Designator: OldDesignator=CELL3_2 NewDesignator=DP8
+Added Component: Designator=U9(Boost Pad)
+Added Component: Designator=U10(Boost Pad)
+Added Pin To Net: NetName=GND Pin=U9-0
+Added Pin To Net: NetName=NetDP1_0 Pin=U9-1
+Added Pin To Net: NetName=5V Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U10-0
+Added Pin To Net: NetName=NetDP1_0 Pin=U10-1
+Added Pin To Net: NetName=3.3V Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Change Net Name : Old Net Name=NetDP1_0 New Net Name=12V
+Added Member To Class: ClassName=BMS-Sch Member=Component DP5 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component U9 Buck Converter
+Added Member To Class: ClassName=BMS-Sch Member=Component U10 Buck Converter
+Added Room: Name=BMS-Sch

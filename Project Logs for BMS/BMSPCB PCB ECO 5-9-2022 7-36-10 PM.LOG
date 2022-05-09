@@ -1,0 +1,8 @@
+Added Component: Designator=DP12(Deans Connector)
+Added Component: Designator=DP13(Deans Connector)
+Added Pin To Net: NetName=24V Pin=DP12-0
+Added Pin To Net: NetName=GND Pin=DP12-1
+Added Pin To Net: NetName=24V Pin=DP13-0
+Added Pin To Net: NetName=GND Pin=DP13-1
+Added Member To Class: ClassName=BMS-Sch Member=Component DP12 Deans Plug
+Added Member To Class: ClassName=BMS-Sch Member=Component DP13 Deans Plug
